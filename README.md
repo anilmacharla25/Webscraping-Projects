@@ -2,7 +2,7 @@
 This  repository contains various webscraping scripts  which are developed python's selenium and bs4  modules  etc.
 
 
-#Files Descriptions
+
 1.scrape_data_intosqlite3.py:
 
 This GitHub project is designed to automate the process of updating a SQLite3 database. The client has provided a database file that contains a table with two columns: 'Website' and 'html'. Initially, the 'Website' column is populated with URLs, while the 'html' column is empty.
